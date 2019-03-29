@@ -1,0 +1,4 @@
+#Fri Mar 29 11:58:28 ICT 2019
+base.0=E\:\\Kuliah\\sms6\\PrakPAM\\week10\\PhoneNumberSpinner\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeDexDebugAndroidTest\\out
+path.0=classes.dex
+renamed.0=classes.dex

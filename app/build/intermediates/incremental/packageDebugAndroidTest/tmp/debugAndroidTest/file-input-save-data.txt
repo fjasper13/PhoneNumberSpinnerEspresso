@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri Mar 29 11:58:28 ICT 2019
+0.baseType=DIRECTORY
+0.base=E\:\\Kuliah\\sms6\\PrakPAM\\week10\\PhoneNumberSpinner\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeDexDebugAndroidTest\\out
+0.path=classes.dex
+0.set=DEX
+count=1
